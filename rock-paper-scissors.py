@@ -3,7 +3,7 @@ import random
 
 
 """This program plays a game of Rock, Paper, Scissors between two Players,
-and reports both Player's scores each round."""
+and reports both Player's scores for each round."""
 
 moves = ['rock', 'paper', 'scissors']
 
